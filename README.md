@@ -6,7 +6,7 @@ Download the code & run **npm install** to install dependencies before starting 
 npm install
 ```
 
-#### Instructions to run json-server
+#### Instructions to run json-server:
 
 Run following command to install json-server:
 
